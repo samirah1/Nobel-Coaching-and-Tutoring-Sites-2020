@@ -1,4 +1,4 @@
-# Nobel-Coaching-and-Tutoring-Projects-2020
+# Nobel Coaching and Tutoring - 2020 Website Projects
 
 These websites were created during the first year of my Web Design and Development Internship at Nobel Coaching and Tutoring. I worked with teams to develop and design these websites using Wordpress, Elementor, HTML, and CSS. 
 
